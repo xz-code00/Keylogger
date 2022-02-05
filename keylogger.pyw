@@ -6,7 +6,7 @@ from threading import Timer
 from datetime import datetime
 
 # Inizializzazione parametri per inviare via mail;
-INVIO_LOG_OGNI = 10  #Periodo in secondi;
+INVIO_LOG_OGNI = 900  #Periodo in secondi;
 INDIRIZZO_EMAIL = "test.esercizio.tpsit@gmail.com"
 PASSWORD_EMAIL = "ITTSvolterra123"
 
