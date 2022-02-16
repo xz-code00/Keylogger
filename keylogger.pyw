@@ -7,8 +7,8 @@ from datetime import datetime
 
 # Inizializzazione parametri per inviare via mail;
 INVIO_LOG_OGNI = 900  #Periodo in secondi;
-INDIRIZZO_EMAIL = "test.esercizio.tpsit@gmail.com"
-PASSWORD_EMAIL = "ITTSvolterra123"
+INDIRIZZO_EMAIL = "email"
+PASSWORD_EMAIL = "password"
 
 
 
